@@ -1,6 +1,6 @@
 body{
-    background-position:center;
-    background-size:cover;
+background-size: cover;
+background-position: center;
 }
 
 .lin{
@@ -10,3 +10,4 @@ body{
     margin-top:15px;
     font-size: medium;
 }
+
